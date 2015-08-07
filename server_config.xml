@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<server>
+	<apns file="./push.p12" token="1qwerty"/>
+	<newuser_tips>
+		<tips title="雷达帮你找到途中的缘分" content="打开奇巴雷达功能，可以发现身边30米范围内的人，更是能精准锁定同站同车的TA哦"/>
+	</newuser_tips>
+</server>
+
